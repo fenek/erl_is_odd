@@ -1,0 +1,4 @@
+[{<<"erl_is_even">>,
+  {git,"https://github.com/fenek/erl_is_even.git",
+       {ref,"13e9c5533789407c3ec50cdda2214f97bb33564f"}},
+  0}].
